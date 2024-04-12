@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FinalApp</string>
+    <string name="title_activity_home_visit">HomeVisit</string>
+    <string name="title_activity_home_admin">HomeAdmin</string>
+</resources>
